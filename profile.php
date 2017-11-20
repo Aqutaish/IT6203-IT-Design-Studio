@@ -105,7 +105,7 @@ $conn = new mysqli("localhost", "AQ_user",  "my*password", "aqutaish");
 
 ?>
 <BR><BR>
-<h2> <a href="mytask.php">Task Assign To Me</a></h2> <br>
+<h2> <a href="mytask.php">Task Assigned To Me</a></h2> <br>
 
 
 <br><div id="right"><nav style="width:90px"> 
